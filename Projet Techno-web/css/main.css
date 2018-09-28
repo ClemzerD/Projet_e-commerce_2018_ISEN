@@ -1,0 +1,40 @@
+
+body {
+	margin: 0px;
+	padding-bottom: 50px;
+}
+
+header
+{
+	text-align: center;
+	width: 100%;
+	margin-top: 0px;
+	margin-left: 0px;
+	padding-bottom: 5px;
+	height: 100px;
+	background-color: grey;
+}
+
+html
+{
+	background-color: grey;
+}
+
+nav 
+{
+	text-align: center;
+	background-color: grey;
+}
+
+nav a:hover
+{
+	color: white;
+}
+
+#headertitle
+{
+	font-size: 50px;
+	color: white;
+	text-decoration: none;
+
+}
